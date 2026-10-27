@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ошибка со звуком (YX_Dybys)
+    url: https://github.com/Bexull/YX_Dybys/issues/new?template=bug.yml
+    about: Громкость, панель, устройства вывода
+  - name: Неправильная автозамена (YX_KazQwerty)
+    url: https://github.com/Bexull/YX_KazQwerty/issues/new?template=word.yml
+    about: Слово исправилось неправильно или не исправилось
+  - name: Ошибка клавиатуры (YX_KazQwerty)
+    url: https://github.com/Bexull/YX_KazQwerty/issues/new?template=bug.yml
+    about: Раскладка, правый ⌘, доступ к клавиатуре

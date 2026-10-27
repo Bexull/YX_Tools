@@ -1,0 +1,6 @@
+[submodule "YX_Dybys"]
+	path = YX_Dybys
+	url = https://github.com/Bexull/YX_Dybys.git
+[submodule "YX_KazQwerty"]
+	path = YX_KazQwerty
+	url = https://github.com/Bexull/YX_KazQwerty.git
