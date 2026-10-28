@@ -30,7 +30,8 @@
 <a href="https://github.com/Bexull/YX_KazQwerty"><img src="docs/images/kazqwerty.png" width="96" alt="Иконка YX_KazQwerty"></a>
 <h3><a href="https://github.com/Bexull/YX_KazQwerty">YX_KazQwerty</a></h3>
 Раскладка «Русская + Қазақша» и автозамена:<br>
-«салеметсизбе» → «Сәлеметсіз бе».<br><br>
+«салеметсизбе» → «Сәлеметсіз бе».<br>
+Есть <a href="https://github.com/Bexull/YX_KazQwerty/tree/main/Windows">бета для Windows</a>.<br><br>
 <a href="https://github.com/Bexull/YX_KazQwerty/releases/latest"><b>Скачать</b></a> ·
 <a href="https://github.com/Bexull/YX_KazQwerty#readme">Подробнее</a>
 </td>
@@ -135,6 +136,7 @@ cd YX_Tools
 - [YX_Dybys](https://github.com/Bexull/YX_Dybys): per-app volume in a Liquid Glass panel.
 - [YX_KazQwerty](https://github.com/Bexull/YX_KazQwerty): a Russian + Kazakh keyboard layout with
   an on-device autocorrect that turns Kazakh typed with Russian letters into proper spelling.
+  It also has a [Windows beta](https://github.com/Bexull/YX_KazQwerty/tree/main/Windows).
 
 Use them separately, or install YX_Tools, which puts both behind one menu bar icon (don't run it
 alongside the separate apps). Download from [Releases](https://github.com/Bexull/YX_Tools/releases/latest),
