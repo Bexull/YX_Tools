@@ -67,7 +67,7 @@
 
 Нужны **macOS 26 Tahoe** и Mac на **Apple silicon** (M1 и новее).
 
-1. Скачайте `YX_Tools-1.0.zip` со страницы [последнего выпуска](https://github.com/Bexull/YX_Tools/releases/latest)
+1. Скачайте `YX_Tools-1.1.zip` со страницы [последнего выпуска](https://github.com/Bexull/YX_Tools/releases/latest)
    и откройте архив.
 2. Перетащите YX_Tools в папку «Программы».
 3. Разрешите первый запуск. Приложение не нотаризовано Apple, поэтому macOS его остановит.
